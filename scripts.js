@@ -24,7 +24,7 @@ function calcularPago(){
         case "trainee":
             total = total - (total * descTrainee);
             break;
-        case "estudiante":
+        case "junior":
             total = total - (total * descJunior);
             break;
         default:
