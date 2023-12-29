@@ -1,3 +1,10 @@
+<%-- 
+    Document   : comprartickets
+    Created on : Dec 28, 2023, 6:40:38 PM
+    Author     : fedem
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -35,7 +42,7 @@
                 <a class="nav-link text-white-50" href="#">Conviertete en orador</a>
               </li>
             <li class="nav-item">
-                <a class="nav-link text-success " href="comprartickets.html">Comprar Tickets</a>
+                <a class="nav-link text-success " href="comprartickets.jsp">Comprar Tickets</a>
             </li>
           </ul>
         </div>

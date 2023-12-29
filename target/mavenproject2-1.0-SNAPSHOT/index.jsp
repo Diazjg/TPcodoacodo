@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +33,7 @@
                 <a class="nav-link text-white-50" href="#">Conviertete en orador</a>
               </li>
             <li class="nav-item">
-                <a class="nav-link text-success " href="comprartickets.html">Comprar Tickets</a>
+                <a class="nav-link text-success " href="comprartickets.jsp">Comprar Tickets</a>
             </li>
           </ul>
         </div>
